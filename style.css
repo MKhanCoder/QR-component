@@ -6,7 +6,6 @@
     box-sizing: border-box;
 }
 body{
-    /* background-color:hsl(220, 15%, 55%); */
     background-color: hsl(212, 45%, 89%);
 }
 img{
@@ -42,8 +41,11 @@ p{
 }
 .attribution{
     margin-top: -80px;
+    text-align: center;
+    font-size: 10px;
 }
 .attribution a{
     text-decoration: none;
     color:gray;
+    
 }
